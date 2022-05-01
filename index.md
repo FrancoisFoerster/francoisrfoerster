@@ -1,10 +1,9 @@
 ![PhD](/francoisrfoerster.github.io/docs/assets/francois.png){:width="250px"}
 ## Activities
-![Conultancy](/francoisrfoerster.github.io/docs/assets/brainLogo.png){:height="200px" width="200px"}
+![Consultancy](/francoisrfoerster.github.io/docs/assets/brainLogo.png){:height="200px" width="200px"}
 Text 
 
 ## Education
-
 ![PostDoc](/francoisrfoerster.github.io/docs/assets/insermLogo.png){:width="150px"}
 Text Post-doc
 
@@ -17,7 +16,8 @@ Published paper:
 
 ![Master](/francoisrfoerster.github.io/docs/assets/inpLogo.png){:width="150px"}
 ### MSc in Cognitive Science
-Text
+**F. Foerster**, G. Bailly and F. Elisei, *Impact of iris size and eyelids coupling on the estimation of the gaze direction of a robotic talking head by human viewers*, 2015 IEEE-RAS 15th International Conference on Humanoid Robots (Humanoids), 2015, pp. 148-153, doi: 10.1109/HUMANOIDS.2015.7363528.[Paper](https://ieeexplore.ieee.org/abstract/document/7363528).
+[**F. Foerster**, G. Bailly and F. Elisei, *Impact of iris size and eyelids coupling on the estimation of the gaze direction of a robotic talking head by human viewers*, 2015 IEEE-RAS 15th International Conference on Humanoid Robots (Humanoids), 2015](https://ieeexplore.ieee.org/abstract/document/7363528).
 
 ![Master](/francoisrfoerster.github.io/docs/assets/ugaLogo.png){:width="150px"}
 ### MSc in Cognitive Psychology
