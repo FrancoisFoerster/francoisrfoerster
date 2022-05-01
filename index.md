@@ -1,7 +1,7 @@
 ## Education
 
 
-![Conultancy](/francoisrfoerster.github.io/docs/assets/eegLogo.png)
+![Conultancy](/francoisrfoerster.github.io/docs/assets/eegLogo.png){:height="40px" width="40px"}
 
 ![PostDoc](/francoisrfoerster.github.io/docs/assets/insermLogo.png)
 Text Post-doc
