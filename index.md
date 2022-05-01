@@ -7,11 +7,26 @@
 Text Post-doc
 
 ![PhD](/francoisrfoerster.github.io/docs/assets/francois.png)
-#### Text PhD
+### PhD in Psychology
+Text PhD
 
-![Profil picture](/francoisrfoerster.github.io/docs/assets/francois.png)
+![Internship](/francoisrfoerster.github.io/docs/assets/gipsaLogo.png)
+### Research interm (Gipsa-lab - Grenoble (France))
+Published paper:
 
-![Profil picture](/francoisrfoerster.github.io/docs/assets/francois.png)
+![Master](/francoisrfoerster.github.io/docs/assets/inpLogo.png)
+### MSc in Cognitive Science
+Text
+
+![Master](/francoisrfoerster.github.io/docs/assets/ugaLogo.png)
+### MSc in Cognitive Psychology
+Text
+
+![Bachelor](/francoisrfoerster.github.io/docs/assets/unistraLogo.png)
+### MSc in Cognitive Psychology
+Text
+
+
 
 ## Welcome to GitHub Pages
 
