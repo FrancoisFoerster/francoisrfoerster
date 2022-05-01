@@ -1,28 +1,29 @@
+![PhD](/francoisrfoerster.github.io/docs/assets/francois.png){:width="250px"}
+## Activities
+![Conultancy](/francoisrfoerster.github.io/docs/assets/brainLogo.png){:height="200px" width="200px"}
+Text 
+
 ## Education
 
-
-![Conultancy](/francoisrfoerster.github.io/docs/assets/brainLogo.png){:height="200px" width="200px"}
-
-![PostDoc](/francoisrfoerster.github.io/docs/assets/insermLogo.png){:width="100px"}
+![PostDoc](/francoisrfoerster.github.io/docs/assets/insermLogo.png){:width="150px"}
 Text Post-doc
 
-![PhD](/francoisrfoerster.github.io/docs/assets/francois.png)
 ### PhD in Psychology
 Text PhD
 
-![Internship](/francoisrfoerster.github.io/docs/assets/gipsaLogo.png)
+![Internship](/francoisrfoerster.github.io/docs/assets/gipsaLogo.png){:width="150px"}
 ### Research interm (Gipsa-lab - Grenoble (France))
 Published paper:
 
-![Master](/francoisrfoerster.github.io/docs/assets/inpLogo.png)
+![Master](/francoisrfoerster.github.io/docs/assets/inpLogo.png){:width="150px"}
 ### MSc in Cognitive Science
 Text
 
-![Master](/francoisrfoerster.github.io/docs/assets/ugaLogo.png)
+![Master](/francoisrfoerster.github.io/docs/assets/ugaLogo.png){:width="150px"}
 ### MSc in Cognitive Psychology
 Text
 
-![Bachelor](/francoisrfoerster.github.io/docs/assets/unistraLogo.png)
+![Bachelor](/francoisrfoerster.github.io/docs/assets/unistraLogo.png){:width="150px"}
 ### MSc in Cognitive Psychology
 Text
 
