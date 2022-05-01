@@ -1,6 +1,4 @@
 theme: jekyll-theme-minimal
 
 title: Francois R Foerster, PhD
-description: text
-
-![ProfilPicture](/francoisrfoerster.github.io/docs/assets/francois.jpg){:width="300px"}
+description: ![ProfilPicture](/francoisrfoerster.github.io/docs/assets/francois.jpg){:width="300px"}
