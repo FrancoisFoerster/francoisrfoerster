@@ -16,8 +16,8 @@ Published paper:
 
 ![Master](/francoisrfoerster.github.io/docs/assets/inpLogo.png){:width="150px"}
 ### MSc in Cognitive Science
-**F. Foerster**, G. Bailly and F. Elisei, *Impact of iris size and eyelids coupling on the estimation of the gaze direction of a robotic talking head by human viewers*, 2015 IEEE-RAS 15th International Conference on Humanoid Robots (Humanoids), 2015, pp. 148-153, doi: 10.1109/HUMANOIDS.2015.7363528.[Paper](https://ieeexplore.ieee.org/abstract/document/7363528).
-[**F. Foerster**, G. Bailly and F. Elisei, *Impact of iris size and eyelids coupling on the estimation of the gaze direction of a robotic talking head by human viewers*, 2015 IEEE-RAS 15th International Conference on Humanoid Robots (Humanoids), 2015](https://ieeexplore.ieee.org/abstract/document/7363528).
+**F. Foerster**, G. Bailly and F. Elisei, *Impact of iris size and eyelids coupling on the estimation of the gaze direction of a robotic talking head by human viewers*, 2015 IEEE-RAS 15th International Conference on Humanoid Robots (Humanoids), 2015, pp. 148-153, doi: 10.1109/HUMANOIDS.2015.7363528.[DOI](https://ieeexplore.ieee.org/abstract/document/7363528)[PDF](https://www.researchgate.net/profile/Foerster-Francois-2/publication/291915349_Impact_of_Iris_Size_and_Eyelids_Coupling_on_the_Estimation_of_the_Gaze_Direction_of_a_Robotic_Talking_Head_by_Human_Viewers/links/56a7582b08aeded22e36ca01/Impact-of-Iris-Size-and-Eyelids-Coupling-on-the-Estimation-of-the-Gaze-Direction-of-a-Robotic-Talking-Head-by-Human-Viewers.pdf
+).
 
 ![Master](/francoisrfoerster.github.io/docs/assets/ugaLogo.png){:width="150px"}
 ### MSc in Cognitive Psychology
