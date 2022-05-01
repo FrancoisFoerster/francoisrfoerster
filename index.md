@@ -1,7 +1,15 @@
 ## Education
 
 
+![Conultancy](/francoisrfoerster.github.io/assets/eegLogo.png)
 
+![PostDoc](/francoisrfoerster.github.io/assets/francois.jpg)
+
+![PhD](/francoisrfoerster.github.io/assets/francois.jpg)
+
+![Profil picture](/francoisrfoerster.github.io/assets/francois.jpg)
+
+![Profil picture](/francoisrfoerster.github.io/assets/francois.jpg)
 
 ## Welcome to GitHub Pages
 
