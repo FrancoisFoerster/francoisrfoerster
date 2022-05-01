@@ -1,24 +1,27 @@
 ![PhD](/francoisrfoerster.github.io/docs/assets/francois.png){:width="250px"}
+
 ## Activities
 ![Consultancy](/francoisrfoerster.github.io/docs/assets/brainLogo.png){:height="200px" width="200px"}
-Text 
+EEG big data analysis
 
 ## Education
 ![PostDoc](/francoisrfoerster.github.io/docs/assets/insermLogo.png){:width="150px"}
-Text Post-doc
+Supervisors: Anne Giersch [link]
 
 ### PhD in Psychology
 Text PhD
+Supervisors: Jeremy Goslin [link] Angelo Cangelosi [link]
 
 ![Internship](/francoisrfoerster.github.io/docs/assets/gipsaLogo.png){:width="150px"}
 ### Research interm (Gipsa-lab - Grenoble (France))
 
 ![Master](/francoisrfoerster.github.io/docs/assets/inpLogo.png){:width="150px"}
 ### MSc in Cognitive Science
+Supervisor: Gérard Bailly [link]
 
 ![Master](/francoisrfoerster.github.io/docs/assets/ugaLogo.png){:width="150px"}
 ### MSc in Cognitive Psychology
-Text
+Supervisor: Stéphane Rousset [link]
 
 ![Bachelor](/francoisrfoerster.github.io/docs/assets/unistraLogo.png){:width="150px"}
 ### MSc in Cognitive Psychology
@@ -27,7 +30,9 @@ Text
 
 ## Publications
 
-**Foerster, F.**, Chidharom, M., Bonnefond, A., Giersch, A., *Neurocognitive evidence of enhanced implicit temporal processing in video game players*, ***Under Review*** [PDF](https://doi.org/10.21203/rs.3.rs-1384616/v1)
+**Foerster, F.**, Chidharom, M., Giersch, A., *Enhanced temporal discrimination abilities in video game players*, ***In prep.***
+
+**Foerster, F.**, Chidharom, M., Bonnefond, A., Giersch, A., *Neurocognitive evidence of enhanced implicit temporal processing in video game players*, ***Under Review*** [Preprint](https://doi.org/10.21203/rs.3.rs-1384616/v1)
 
 **Foerster, F. R.**, Weibel, S., Poncelet, P., Dufour, A., Delevoye-Turrell, Y. N., Capobianco, A., Ott, L., & Giersch, A. (2021). Volatility of subliminal haptic feedback alters the feeling of control in schizophrenia. ***Journal of Abnormal Psychology***, 130(7), 775–784.
 [PDF]()[DOI](https://doi.org/10.1037/abn0000703)
