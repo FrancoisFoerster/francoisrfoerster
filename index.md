@@ -1,13 +1,13 @@
 ## Education
 
 
-![Conultancy](/francoisrfoerster.github.io/docs/assets/eegLogo.png){:height="40px" width="40px"}
+![Conultancy](/francoisrfoerster.github.io/docs/assets/brainLogo.png){:height="200px" width="200px"}
 
-![PostDoc](/francoisrfoerster.github.io/docs/assets/insermLogo.png)
+![PostDoc](/francoisrfoerster.github.io/docs/assets/insermLogo.png){:width="100px"}
 Text Post-doc
 
 ![PhD](/francoisrfoerster.github.io/docs/assets/francois.png)
-# Text PhD
+#### Text PhD
 
 ![Profil picture](/francoisrfoerster.github.io/docs/assets/francois.png)
 
