@@ -27,19 +27,17 @@ Text
 
 ## Publications
 
-**Foerster, F. R.**, Borghi, A. M., & Goslin, J. (2020). *Labels strengthen motor learning of new tools*. ***Cortex***, 129, 1–10.
-[PDF][DOI]
 
-**Foerster, F. R.**, & Goslin, J. (2021). *Tool use and function knowledge shape visual object processing*. ***Biological Psychology***, 164, 108143.
-[PDF](https://sci-hub.mksa.top/https://doi.org/10.1016/j.biopsycho.2021.108143)[DOI](https://www.sciencedirect.com/science/article/pii/S0301051121001368)
+[DOI](https://doi.org/10.1016/j.trf.2021.09.005)
 
-**Foerster, F. R.**, Borghi, A. M., & Goslin, J. (2020). *Labels strengthen motor learning of new tools*. ***Cortex***, 129, 1–10.
-[PDF](http://gral.ip.rm.cnr.it/borghi/Foerster-Borghi-Goslin_Labels%20new%20tools_Cortex2020.pdf)[DOI](https://www.sciencedirect.com/science/article/pii/S0010945220301477)
+**Foerster, F. R.**, & Goslin, J. (2021). *Tool use and function knowledge shape visual object processing*. ***Biological Psychology***, 164, 108143.[PDF](https://sci-hub.mksa.top/https://doi.org/10.1016/j.biopsycho.2021.108143)[DOI](https://www.sciencedirect.com/science/article/pii/S0301051121001368)
 
-**F. Foerster**, G. Bailly and F. Elisei, *Impact of iris size and eyelids coupling on the estimation of the gaze direction of a robotic talking head by human viewers*, 2015 IEEE-RAS 15th International Conference on Humanoid Robots ***Humanoids***, 2015, pp. 148-153, doi: 10.1109/HUMANOIDS.2015.7363528.[PDF](https://www.researchgate.net/profile/Foerster-Francois-2/publication/291915349_Impact_of_Iris_Size_and_Eyelids_Coupling_on_the_Estimation_of_the_Gaze_Direction_of_a_Robotic_Talking_Head_by_Human_Viewers/links/56a7582b08aeded22e36ca01/Impact-of-Iris-Size-and-Eyelids-Coupling-on-the-Estimation-of-the-Gaze-Direction-of-a-Robotic-Talking-Head-by-Human-Viewers.pdf
+**Foerster, F. R.**, Borghi, A. M., & Goslin, J. (2020). *Labels strengthen motor learning of new tools*. ***Cortex***, 129, 1–10.[PDF](http://gral.ip.rm.cnr.it/borghi/Foerster-Borghi-Goslin_Labels%20new%20tools_Cortex2020.pdf)[DOI](https://www.sciencedirect.com/science/article/pii/S0010945220301477)
+
+**Foerster, F. R.**, Bailly, G. and Elisei, F., *Impact of iris size and eyelids coupling on the estimation of the gaze direction of a robotic talking head by human viewers*, 2015 IEEE-RAS 15th International Conference on Humanoid Robots ***Humanoids***, 2015, pp. 148-153, doi: 10.1109/HUMANOIDS.2015.7363528.[PDF](https://www.researchgate.net/profile/Foerster-Francois-2/publication/291915349_Impact_of_Iris_Size_and_Eyelids_Coupling_on_the_Estimation_of_the_Gaze_Direction_of_a_Robotic_Talking_Head_by_Human_Viewers/links/56a7582b08aeded22e36ca01/Impact-of-Iris-Size-and-Eyelids-Coupling-on-the-Estimation-of-the-Gaze-Direction-of-a-Robotic-Talking-Head-by-Human-Viewers.pdf
 ).[DOI](https://ieeexplore.ieee.org/abstract/document/7363528)
 
-T. Caudrelier, **F. Foerster**, *Contribution des robots sociaux aux thérapies des troubles du spectre autistique: une revue critique* [PDF](https://www.researchgate.net/profile/Gerard-Bailly/publication/278625871_Cognition_Affects_et_Interaction/links/562e3c7108aef25a24442d21/Cognition-Affects-et-Interaction.pdf#page=28)
+T. Caudrelier, **F. Foerster**, *Contribution des robots sociaux aux thérapies des troubles du spectre autistique: une revue critique* [[PDF]](https://www.researchgate.net/profile/Gerard-Bailly/publication/278625871_Cognition_Affects_et_Interaction/links/562e3c7108aef25a24442d21/Cognition-Affects-et-Interaction.pdf#page=28)
 
 
 ## Welcome to GitHub Pages
