@@ -12,6 +12,8 @@ Temporal cognition in psychiatric and various populations
 *Supervisor*: [Prof. MD Anne Giersch](https://www.u1114.inserm.fr/en/content/anne-giersch)
 
 ### PhD in Psychology (University of Plymouth, United Kingdom)
+![PhD](/francoisrfoerster.github.io/docs/assets/plymouthLogo.png){:width="150px"}
+
 Brain Rhythms in Object Recognition and Manipulation
 *Supervisors*: [Prof. Jeremy Goslin](https://www.plymouth.ac.uk/staff/jeremy-goslin) [Prof. Angelo Cangelosi](https://www.turing.ac.uk/people/researchers/angelo-cangelosi)
 
@@ -51,21 +53,3 @@ Cutello, C. A., Walsh, C., **Foerster, F. R.**, Hanoch, Y., Hellier, E. (2021) *
 
 T. Caudrelier, **F. Foerster**, *Contribution des robots sociaux aux thérapies des troubles du spectre autistique: une revue critique* [[PDF]](https://www.researchgate.net/profile/Gerard-Bailly/publication/278625871_Cognition_Affects_et_Interaction/links/562e3c7108aef25a24442d21/Cognition-Affects-et-Interaction.pdf#page=28)
 
-
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/FrancoisFoerster/francoisrfoerster.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FrancoisFoerster/francoisrfoerster.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
