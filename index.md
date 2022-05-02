@@ -1,4 +1,4 @@
-![PhD](/francoisrfoerster.github.io/docs/assets/francois.png){:width="250px"}
+![PhD](/francoisrfoerster.github.io/docs/assets/francois.png){:width="300px"}
 
 ## Activities
 ![Consultancy](/francoisrfoerster.github.io/docs/assets/brainLogo.png){:height="200px" width="200px"}
