@@ -5,18 +5,18 @@
 ## Today and beyond
 Consultant in EEG big data analysis *remotely and Brussels area*
 
-![section](/francoisrfoerster.github.io/docs/assets/arabesqueA.png){:width="500px"}
+![section](/francoisrfoerster/docs/assets/arabesqueA.png){:width="500px"}
 
 ## Education
 
-![PostDoc](/francoisrfoerster.github.io/docs/assets/insermLogo.png){:width="150px" style="margin-right: 1em;"}
+![PostDoc](/francoisrfoerster/docs/assets/insermLogo.png){:width="150px" style="margin-right: 1em;"}
 **Postdoctoral researcher** (U1114, Strasbourg, France)
 
 Seeking markers of temporal cognition alterations in schizophrenia and video games players using EEG, eye-tracking and virtual reality technologies
 
 *Supervisor*: [Prof. MD Anne Giersch](https://www.u1114.inserm.fr/en/content/anne-giersch)
 
-![PhD](/francoisrfoerster.github.io/docs/assets/plymouthLogo.png){:width="150px" style="margin-right: 1em;"}
+![PhD](/francoisrfoerster/docs/assets/plymouthLogo.png){:width="150px" style="margin-right: 1em;"}
 **Doctoral researcher** (United Kingdom)
 
 Understading neurocognitive bases of object recognition and manipulation using EEG and virtual reality technologies
@@ -24,28 +24,28 @@ Understading neurocognitive bases of object recognition and manipulation using E
 *Supervisors*: [Prof. Jeremy Goslin](https://www.plymouth.ac.uk/staff/jeremy-goslin) [Prof. Angelo Cangelosi](https://www.turing.ac.uk/people/researchers/angelo-cangelosi)
 
 
-![Internship](/francoisrfoerster.github.io/docs/assets/gipsaLogo.png){:width="150px" style="margin-right: 1em;"}
+![Internship](/francoisrfoerster/docs/assets/gipsaLogo.png){:width="150px" style="margin-right: 1em;"}
 **Research fellow** (Grenoble, France)
 
 Research of human-robot (iCub) non-verbal communication 
 
 
-![Master](/francoisrfoerster.github.io/docs/assets/inpLogo.png){:width="150px" style="margin-right: 1em;"}
+![Master](/francoisrfoerster/docs/assets/inpLogo.png){:width="150px" style="margin-right: 1em;"}
 **MSc in Cognitive Science** (France)
 
 *Supervisor*: [Prof. Gérard Bailly](https://www.gipsa-lab.grenoble-inp.fr/~gerard.bailly/)
 
 
-![Master](/francoisrfoerster.github.io/docs/assets/ugaLogo.png){:width="150px" style="margin-right: 1em;"}
+![Master](/francoisrfoerster/docs/assets/ugaLogo.png){:width="150px" style="margin-right: 1em;"}
 **MSc in Cognitive Psychology** (France)
 
 *Supervisor*: [Prof. Stéphane Rousset](https://lpnc.univ-grenoble-alpes.fr/membre/stephane-rousset)
 
-![Bachelor](/francoisrfoerster.github.io/docs/assets/unistraLogo.png){:width="150px" style="margin-right: 1em;"}
+![Bachelor](/francoisrfoerster/docs/assets/unistraLogo.png){:width="150px" style="margin-right: 1em;"}
 **BSc in Cognitive Psychology** (France)
 
 
-![section](/francoisrfoerster.github.io/docs/assets/arabesqueB.png){:width="500px"}
+![section](/francoisrfoerster/docs/assets/arabesqueB.png){:width="500px"}
 
 ## Publications
 
@@ -67,8 +67,8 @@ Cutello, C. A., Walsh, C., **Foerster, F. R.**, Hanoch, Y., Hellier, E. (2021) *
 
 T. Caudrelier, **F. Foerster**, *Contribution des robots sociaux aux thérapies des troubles du spectre autistique: une revue critique* [[PDF]](https://www.researchgate.net/profile/Gerard-Bailly/publication/278625871_Cognition_Affects_et_Interaction/links/562e3c7108aef25a24442d21/Cognition-Affects-et-Interaction.pdf#page=28)
 
-![section](/francoisrfoerster.github.io/docs/assets/arabesqueA.png){:width="500px"}
+![section](/francoisrfoerster/docs/assets/arabesqueA.png){:width="500px"}
 
-![profil](/francoisrfoerster.github.io/docs/assets/francoisfoersterBis.png){:width="500px"}
+![profil](/francoisrfoerster/docs/assets/francoisfoersterBis.png){:width="500px"}
 
 
