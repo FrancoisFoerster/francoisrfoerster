@@ -6,34 +6,28 @@ EEG big data analysis remotely and around Brussels
 ## Education
 
 ![PostDoc](/francoisrfoerster.github.io/docs/assets/insermLogo.png){:width="150px"}
-
 ### Post-doctoral fellow (INSERM U1114, Psychiatric Hospital of Strasbourg, France)
 Temporal cognition in psychiatric and various populations
-
 *Supervisor*: [Prof. MD Anne Giersch](https://www.u1114.inserm.fr/en/content/anne-giersch)
 
 ![PhD](/francoisrfoerster.github.io/docs/assets/plymouthLogo.png){:width="150px" style="float: left; margin-right: 1em;"}
 ### PhD in Psychology (University of Plymouth, United Kingdom)
 Brain Rhythms in Object Recognition and Manipulation
-
 *Supervisors*: [Prof. Jeremy Goslin](https://www.plymouth.ac.uk/staff/jeremy-goslin) [Prof. Angelo Cangelosi](https://www.turing.ac.uk/people/researchers/angelo-cangelosi)
 
 ![Internship](/francoisrfoerster.github.io/docs/assets/gipsaLogo.png){:width="150px" style="float: left; margin-right: 1em;"}
 ### Research interm (Gipsa-lab - Grenoble, France)
 Research of human-robot (iCub) non-verbal communication 
 
-![Master](/francoisrfoerster.github.io/docs/assets/inpLogo.png){:width="150px"}
-
+![Master](/francoisrfoerster.github.io/docs/assets/inpLogo.png){:width="150px" style="float: left; margin-right: 1em;"}
 ### MSc in Cognitive Science (Grenoble Institute of Technology, France)
 *Supervisor*: [Prof. Gérard Bailly](https://www.gipsa-lab.grenoble-inp.fr/~gerard.bailly/)
 
-![Master](/francoisrfoerster.github.io/docs/assets/ugaLogo.png){:width="150px"}
-
+![Master](/francoisrfoerster.github.io/docs/assets/ugaLogo.png){:width="150px" style="float: left; margin-right: 1em;"}
 ### MSc in Cognitive Psychology (Grenoble-Alpes University, France)
 *Supervisor*: [Prof. Stéphane Rousset](https://lpnc.univ-grenoble-alpes.fr/membre/stephane-rousset)
 
-![Bachelor](/francoisrfoerster.github.io/docs/assets/unistraLogo.png){:width="150px"}
-
+![Bachelor](/francoisrfoerster.github.io/docs/assets/unistraLogo.png){:width="150px" style="float: left; margin-right: 1em;"}
 ### BSc in Cognitive Psychology (University of Strasbourg, France)
 
 
