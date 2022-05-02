@@ -2,7 +2,7 @@ theme: jekyll-theme-dinky
 
 title: Francois R Foerster, PhD
 
-description: Cognitive neuroscientists
+description: Cognitive neuroscientist
 
 avatar: ![ProfilPicture](/francoisrfoerster.github.io/docs/assets/francois.jpg)
 
@@ -10,7 +10,8 @@ avatar: ![ProfilPicture](/francoisrfoerster.github.io/docs/assets/francois.jpg)
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: francoisfoerster@gmail.com
-  github: stackexchange/blog
+  googlescholar: https://scholar.google.co.uk/citations?user=oPWQIcoAAAAJ&hl=en
+  osf: https://osf.io/8q6g2/
   linkedin: https://www.linkedin.com/in/francois-foerster-neuro/
-  twitter: stackexchange  
+  github: https://github.com/FrancoisFoerster
   
