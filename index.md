@@ -3,7 +3,7 @@
 ## Today and beyond
 Consultant in EEG big data analysis *remotely and Brussels area*
 
-![section](/francoisrfoerster.github.io/docs/assets/arabesqueA.png){:width="400px"}
+![section](/francoisrfoerster.github.io/docs/assets/arabesqueA.png){:width="500px"}
 
 ## Education
 
@@ -40,7 +40,7 @@ Research of human-robot (iCub) non-verbal communication
 **BSc in Cognitive Psychology** (France)
 
 
-![section](/francoisrfoerster.github.io/docs/assets/arabesqueB.png){:width="400px"}
+![section](/francoisrfoerster.github.io/docs/assets/arabesqueB.png){:width="500px"}
 
 ## Publications
 
