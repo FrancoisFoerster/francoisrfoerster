@@ -68,3 +68,7 @@ Cutello, C. A., Walsh, C., **Foerster, F. R.**, Hanoch, Y., Hellier, E. (2021) *
 T. Caudrelier, **F. Foerster**, *Contribution des robots sociaux aux thérapies des troubles du spectre autistique: une revue critique* [[PDF]](https://www.researchgate.net/profile/Gerard-Bailly/publication/278625871_Cognition_Affects_et_Interaction/links/562e3c7108aef25a24442d21/Cognition-Affects-et-Interaction.pdf#page=28)
 
 ![section](/francoisrfoerster.github.io/docs/assets/arabesqueA.png){:width="500px"}
+
+![profil](/francoisrfoerster.github.io/docs/assets/francoisfoersterBis.png){:width="500px"}
+
+
