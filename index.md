@@ -1,6 +1,6 @@
 ![picture](/francoisrfoerster.github.io/docs/assets/francois.jpg)
 
-## Activities
+## Current activities
 ![Consultancy](/francoisrfoerster.github.io/docs/assets/brainLogo.png){:width="150"}
 EEG big data analysis remotely and around Brussels
 
@@ -8,22 +8,24 @@ EEG big data analysis remotely and around Brussels
 
 ### Post-doctoral fellow (INSERM U1114, Psychiatric Hospital of Strasbourg, France)
 ![PostDoc](/francoisrfoerster.github.io/docs/assets/insermLogo.png){:width="150px"}
-Supervisors: [Prof. MD Anne Giersch](https://www.u1114.inserm.fr/en/content/anne-giersch)
+Temporal cognition in psychiatric and various populations
+*Supervisor*: [Prof. MD Anne Giersch](https://www.u1114.inserm.fr/en/content/anne-giersch)
 
 ### PhD in Psychology (University of Plymouth, United Kingdom)
-Text PhD
-Supervisors: [Prof. Jeremy Goslin](https://www.plymouth.ac.uk/staff/jeremy-goslin) [Prof. Angelo Cangelosi](https://www.turing.ac.uk/people/researchers/angelo-cangelosi)
+Brain Rhythms in Object Recognition and Manipulation
+*Supervisors*: [Prof. Jeremy Goslin](https://www.plymouth.ac.uk/staff/jeremy-goslin) [Prof. Angelo Cangelosi](https://www.turing.ac.uk/people/researchers/angelo-cangelosi)
 
 ![Internship](/francoisrfoerster.github.io/docs/assets/gipsaLogo.png){:width="150px"}
 ### Research interm (Gipsa-lab - Grenoble, France)
+Human-robot (iCub) non-verbal communication 
 
 ![Master](/francoisrfoerster.github.io/docs/assets/inpLogo.png){:width="150px"}
 ### MSc in Cognitive Science (Grenoble Institute of Technology, France)
-Supervisor: [Prof. Gérard Bailly](https://www.gipsa-lab.grenoble-inp.fr/~gerard.bailly/)
+*Supervisor*: [Prof. Gérard Bailly](https://www.gipsa-lab.grenoble-inp.fr/~gerard.bailly/)
 
 ![Master](/francoisrfoerster.github.io/docs/assets/ugaLogo.png){:width="150px"}
 ### MSc in Cognitive Psychology (Grenoble-Alpes University, France)
-Supervisor: [Prof. Stéphane Rousset](https://lpnc.univ-grenoble-alpes.fr/membre/stephane-rousset)
+*Supervisor*: [Prof. Stéphane Rousset](https://lpnc.univ-grenoble-alpes.fr/membre/stephane-rousset)
 
 ![Bachelor](/francoisrfoerster.github.io/docs/assets/unistraLogo.png){:width="150px"}
 ### BSc in Cognitive Psychology (University of Strasbourg, France)
