@@ -1,11 +1,10 @@
 theme: jekyll-theme-minimal
 
-title: Francois R Foerster, PhD
+title: Francois R. Foerster, PhD
 
 description: Cognitive neuroscientist
 
-avatar: /francoisrfoerster.github.io/docs/assets/brainLogo.png
-
+avatar: https://francoisrfoerster.github.io/docs/assets/brainLogo.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
