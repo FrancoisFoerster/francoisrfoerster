@@ -5,3 +5,12 @@ title: Francois R Foerster, PhD
 description: Cognitive neuroscientists
 
 avatar: ![ProfilPicture](/francoisrfoerster.github.io/docs/assets/francois.jpg)
+
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  email: francoisfoerster@gmail.com
+  github: stackexchange/blog
+  linkedin: https://www.linkedin.com/in/francois-foerster-neuro/
+  twitter: stackexchange  
+  
