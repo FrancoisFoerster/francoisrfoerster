@@ -42,8 +42,6 @@ Research of human-robot (iCub) non-verbal communication
 
 ## Publications
 
-![section](/francoisrfoerster.github.io/docs/assets/arabesque.png){:width="150px" style="margin-right: 1em;"}
-
 **Foerster, F.**, Chidharom, M., Giersch, A., *Enhanced temporal discrimination abilities in video game players*, ***In prep.*** [[Preprint]]()
 
 **Foerster, F.**, Chidharom, M., Bonnefond, A., Giersch, A., *Neurocognitive evidence of enhanced implicit temporal processing in video game players*, ***Under Review*** [[Preprint]](https://doi.org/10.21203/rs.3.rs-1384616/v1)
