@@ -15,3 +15,6 @@ footer-links:
   linkedin: https://www.linkedin.com/in/francois-foerster-neuro/
   github: https://github.com/FrancoisFoerster
   
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
