@@ -24,16 +24,19 @@ Understading neurocognitive bases of object recognition and manipulation using E
 
 ![Internship](/francoisrfoerster.github.io/docs/assets/gipsaLogo.png){:width="150px" style="margin-right: 1em;"}
 **Research fellow** (Grenoble, France)
+
 Research of human-robot (iCub) non-verbal communication 
 
 
 ![Master](/francoisrfoerster.github.io/docs/assets/inpLogo.png){:width="150px" style="margin-right: 1em;"}
 **MSc in Cognitive Science** (France)
+
 *Supervisor*: [Prof. Gérard Bailly](https://www.gipsa-lab.grenoble-inp.fr/~gerard.bailly/)
 
 
 ![Master](/francoisrfoerster.github.io/docs/assets/ugaLogo.png){:width="150px" style="margin-right: 1em;"}
 **MSc in Cognitive Psychology** (France)
+
 *Supervisor*: [Prof. Stéphane Rousset](https://lpnc.univ-grenoble-alpes.fr/membre/stephane-rousset)
 
 ![Bachelor](/francoisrfoerster.github.io/docs/assets/unistraLogo.png){:width="150px" style="margin-right: 1em;"}
@@ -41,6 +44,7 @@ Research of human-robot (iCub) non-verbal communication
 
 
 ![section](/francoisrfoerster.github.io/docs/assets/arabesqueB.png){:width="500px"}
+![section](/francoisrfoerster.github.io/docs/assets/arabesqueA.png){:width="300px"}
 
 ## Publications
 
