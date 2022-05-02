@@ -1,4 +1,4 @@
-![PhD](/francoisrfoerster.github.io/docs/assets/francois.png){:width="300px"}
+![picture](/francoisrfoerster.github.io/docs/assets/francois.jpg)
 
 ## Activities
 ![Consultancy](/francoisrfoerster.github.io/docs/assets/brainLogo.png){:width="150"}
@@ -8,22 +8,22 @@ EEG big data analysis
 
 ### Post-doctoral fellow (INSERM U1114, Psychiatric Hospital of Strasbourg [France])
 ![PostDoc](/francoisrfoerster.github.io/docs/assets/insermLogo.png){:width="150px"}
-Supervisors: Anne Giersch [link](https://www.u1114.inserm.fr/en/content/anne-giersch)
+Supervisors: [Prof. MD Anne Giersch](https://www.u1114.inserm.fr/en/content/anne-giersch)
 
 ### PhD in Psychology (University of Plymouth, [United Kingdom])
 Text PhD
-Supervisors: Jeremy Goslin [link](https://www.plymouth.ac.uk/staff/jeremy-goslin) Angelo Cangelosi [link](https://www.turing.ac.uk/people/researchers/angelo-cangelosi)
+Supervisors: [Prof. Jeremy Goslin](https://www.plymouth.ac.uk/staff/jeremy-goslin) [Prof. Angelo Cangelosi](https://www.turing.ac.uk/people/researchers/angelo-cangelosi)
 
 ![Internship](/francoisrfoerster.github.io/docs/assets/gipsaLogo.png){:width="150px"}
 ### Research interm (Gipsa-lab - Grenoble [France])
 
 ![Master](/francoisrfoerster.github.io/docs/assets/inpLogo.png){:width="150px"}
 ### MSc in Cognitive Science (Grenoble Institute of Technology [France])
-Supervisor: Gérard Bailly [link](https://www.gipsa-lab.grenoble-inp.fr/~gerard.bailly/)
+Supervisor: [Prof. Gérard Bailly](https://www.gipsa-lab.grenoble-inp.fr/~gerard.bailly/)
 
 ![Master](/francoisrfoerster.github.io/docs/assets/ugaLogo.png){:width="150px"}
 ### MSc in Cognitive Psychology (Grenoble-Alpes University [France])
-Supervisor: Stéphane Rousset [link](https://lpnc.univ-grenoble-alpes.fr/membre/stephane-rousset)
+Supervisor: [Prof. Stéphane Rousset](https://lpnc.univ-grenoble-alpes.fr/membre/stephane-rousset)
 
 ![Bachelor](/francoisrfoerster.github.io/docs/assets/unistraLogo.png){:width="150px"}
 ### BSc in Cognitive Psychology (University of Strasbourg [France])
@@ -31,9 +31,9 @@ Supervisor: Stéphane Rousset [link](https://lpnc.univ-grenoble-alpes.fr/membre/
 
 ## Publications
 
-**Foerster, F.**, Chidharom, M., Giersch, A., *Enhanced temporal discrimination abilities in video game players*, ***In prep.*** [Preprint]
+**Foerster, F.**, Chidharom, M., Giersch, A., *Enhanced temporal discrimination abilities in video game players*, ***In prep.*** [[Preprint]]()
 
-**Foerster, F.**, Chidharom, M., Bonnefond, A., Giersch, A., *Neurocognitive evidence of enhanced implicit temporal processing in video game players*, ***Under Review*** [Preprint](https://doi.org/10.21203/rs.3.rs-1384616/v1)
+**Foerster, F.**, Chidharom, M., Bonnefond, A., Giersch, A., *Neurocognitive evidence of enhanced implicit temporal processing in video game players*, ***Under Review*** [[Preprint]](https://doi.org/10.21203/rs.3.rs-1384616/v1)
 
 **Foerster, F. R.**, Weibel, S., Poncelet, P., Dufour, A., Delevoye-Turrell, Y. N., Capobianco, A., Ott, L., & Giersch, A. (2021). Volatility of subliminal haptic feedback alters the feeling of control in schizophrenia. ***Journal of Abnormal Psychology***, 130(7), 775–784.
 [[PDF]]() [[DOI]](https://doi.org/10.1037/abn0000703)
