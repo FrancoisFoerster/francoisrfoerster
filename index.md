@@ -1,6 +1,6 @@
-![Consultancy](/francoisrfoerster.github.io/docs/assets/brainLogo.png){:width="150"}
+![Consultancy](/francoisrfoerster/docs/assets/brainLogo.png){:width="150"}
 
-![section](/francoisrfoerster.github.io/docs/assets/arabesqueB.png){:width="500px"}
+![section](/francoisrfoerster/docs/assets/arabesqueB.png){:width="500px"}
 
 ## Today and beyond
 Consultant in EEG big data analysis *remotely and Brussels area*
