@@ -12,15 +12,13 @@ Temporal cognition in psychiatric and various populations
 
 *Supervisor*: [Prof. MD Anne Giersch](https://www.u1114.inserm.fr/en/content/anne-giersch)
 
-![PhD](/francoisrfoerster.github.io/docs/assets/plymouthLogo.png){:width="150px"}
-
+![PhD](/francoisrfoerster.github.io/docs/assets/plymouthLogo.png){:width="150px" style="float: left; margin-right: 1em;"}
 ### PhD in Psychology (University of Plymouth, United Kingdom)
 Brain Rhythms in Object Recognition and Manipulation
 
 *Supervisors*: [Prof. Jeremy Goslin](https://www.plymouth.ac.uk/staff/jeremy-goslin) [Prof. Angelo Cangelosi](https://www.turing.ac.uk/people/researchers/angelo-cangelosi)
 
-![Internship](/francoisrfoerster.github.io/docs/assets/gipsaLogo.png){:width="150px"}
-
+![Internship](/francoisrfoerster.github.io/docs/assets/gipsaLogo.png){:width="150px" style="float: left; margin-right: 1em;"}
 ### Research interm (Gipsa-lab - Grenoble, France)
 Research of human-robot (iCub) non-verbal communication 
 
