@@ -1,9 +1,11 @@
 theme: jekyll-theme-minimal
+url: https://francoisfoerster.github.io
+baseurl: ''
 
-title: Francois R. Foerster, PhD
+title: Dr. Francois R. Foerster
 
 description: Cognitive Neuroscientist & EEG Consultant
-
+email: francoisfoerster@gmail.com
 avatar: https://francoisfoerster.github.io/francoisrfoerster.github.io/docs/assets/francoisfoersterBis.png
 
   ![profil](/francoisrfoerster.github.io/docs/assets/francoisfoersterBis.png){:width="500px"}
